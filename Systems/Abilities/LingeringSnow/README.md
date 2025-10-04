@@ -25,7 +25,7 @@
 ## Installation
 
 1. Clone or download the repository into your Roblox Studio project.
-2. Place the `Lingering Snow` folder into the `StarterPack` (tools) or wherever you manage your abilities.
+2. Place all files under a tool. (Ensure require handle is set to false)
 3. Ensure all RemoteEvents are in `ReplicatedStorage`, particularly `LingeringSnow`.
 4. Make your character model `Archivable` for clones to work properly.
 5. Adjust hitbox, anchors, and effects in the tool to match your skill design.
