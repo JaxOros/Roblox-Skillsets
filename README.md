@@ -6,7 +6,6 @@ Each project is modular and can be integrated into a variety of tool-based games
 ## Systems
 - [Anti-Exploit Framework](Systems/AntiExploitFramework) – A modular system for detecting and preventing exploit behavior in games, including RemoteEvent validation, movement monitoring, and logging.
 - [Stat Manager](Systems/StatManager) – A server-authoritative system for managing player stats, abilities, and progression.
-- [Movement Limiter](Systems/MovementLimiter) – Prevents abnormal player movement, teleportation, and speed hacks with server-side validation.
 
 ## Abilities
 - [Simple Solemn Lament](Abilities/SolemnLament) – A simple M1-based tool with a built-in keycode detector for its special ability.
