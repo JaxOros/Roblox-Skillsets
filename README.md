@@ -13,7 +13,6 @@ Each project is modular and can be integrated into a variety of tool-based games
 - [Lingering Snow](Abilities/LingeringSnow) – A skill that creates a slash barrage in front of the user, causing hit enemies to slow while affected.
 - [Tachyon](Abilities/Tachyon) – A skill that creates floating math glyphs based on the user's movement speed.
 - [Scuffed Raijin](Abilities/ScuffedRaijin) – A skill that allows teleportation between saved points.
-- [Invitation](Abilities/Invitation) – A tool that teleports all players within an AoE to a designated location.
 
 ## Skills & Focus
 - Lua / Luau scripting for Roblox  
