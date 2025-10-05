@@ -31,9 +31,7 @@
 1. Clone or download the repository into your Roblox Studio project.
 2. Place the scripts inside a Tool object.
 3. Add the `Mark` template inside the tool for the tag visuals.
-4. Create a folder in `ReplicatedStorage` named `Events` containing:
-   - `Clicked` RemoteEvent (optional visual or sound feedback)
-   - `Crit` RemoteEvent (optional critical teleport)
+4. Create a remote event under the tool name `RemoteEvent`.
 5. Ensure the tool is parented to the player character or StarterPack for testing.
 
 ---
@@ -62,8 +60,7 @@
   - Include any visual indicators (parts, meshes, particle effects).
   
 - **Teleport Events**
-  - `Clicked` RemoteEvent: optional feedback for tag placement.
-  - `Crit` RemoteEvent: optional feedback for critical teleport or combo events.
+  - `RemoteEvent` RemoteEvent: optional feedback for tag placement.
 
 - **Distance Limit**
   - The maximum distance a player can place a tag from their character is 10 studs.
